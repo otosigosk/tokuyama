@@ -1,0 +1,27 @@
+@charset "UTF-8";
+html{
+  font-size: 100%;
+}
+h1{font-size: 5rem;
+ height: 10rem;
+ padding-top: 2.5rem;
+ text-align: center;
+ font-style: serif;
+ background-image: url(pic.png);
+ background-size: cover;}
+p{font-size: 2rem;
+ height: inherit;}
+.box_2{font-size: 2rem;
+ background-color: yellow;
+ border-width: thick;
+ border-style: solid;
+ width: 20rem;}
+h4{font-size: 60px;
+ height: 40px;}
+ol{font-size: 3rem;
+ margin-left: 20px;}
+.box_1 {color: red;}
+.box_3{font-size: 2rem;
+ }
+ a {font-size: 2rem;}
+ .box_4{font-size: 2rem;}
